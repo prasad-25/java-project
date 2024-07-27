@@ -2,7 +2,7 @@
 //
 class Hello {
 	public static void main(string[] args) {
-		system.out.println("Welcome to Devops Certification Training Programme!");
+		system.out.println("Welcome to Gits online Training!");
 	}
 }
 
