@@ -1,14 +1,11 @@
-import java.io.*;
+/* HelloWorld.java
+ */
 
-public class details
+public class HelloWorld
 {
-    class Hello
-    public static void main( String[] args )
-    {
-        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-        System.out.println("Welcome to Gits online Training!");
-        String name = in.readLine(); ;
-        System.out.println("Hello" + Jenkins);
-    }
+	public static void main(String[] args) {
+		System.out.println("Welcome to Jenkins online Training!");
+	}
 }
+
 
