@@ -2,6 +2,7 @@ import java.io.*;
 
 public class details
 {
+    class Hello
     public static void main( String[] args )
     {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
