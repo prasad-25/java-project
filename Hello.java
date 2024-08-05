@@ -1,4 +1,4 @@
-/* HelloWorld.java
+/* Hello.java
  */
 
 public class HelloWorld
